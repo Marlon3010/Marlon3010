@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hola 👋 Soy Marlon, profesional en Ingeniería en Sistemas Computacionales e iniciando el mundo de Data Analyst que conlleva a la estadística aplicada, la ciencia de datos y el machine learning.
 
-<!--
-**Marlon3010/Marlon3010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tengo sólidos conocimientos en Python, SQL y visualización de datos, y me encanta convertir datos en información valiosa para resolver problemas complejos y mejorar la eficiencia en proyectos. He realizado proyectos para la optimización de procesos, migración de datos y desarrollo de modelos predictivos en varios campos.
 
-Here are some ideas to get you started:
+## 🔧 Habilidades & Tecnologías:
+- **Lenguajes de programación:** Python, SQL
+- **Análisis de Datos & Machine Learning:** scikit-learn, pandas, numpy
+- **Herramientas de visualización:** Matplotlib, Seaborn, Tableu
+- **Librerias en Python:**
+  - scikit-learn: algoritmos en Machine learning
+  - pandas: Manipulación y análisis de datos
+  - numpy: Operaciones numéricas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
