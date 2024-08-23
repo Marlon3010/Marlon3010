@@ -11,3 +11,5 @@ Tengo sólidos conocimientos en Python, SQL y visualización de datos, y me enca
   - pandas: Manipulación y análisis de datos
   - numpy: Operaciones numéricas
 
+## 🌟 Proyectos Claves:
+- **[Proyecto sobre el comportamiento de los clientes](https://github.com/Marlon3010/analisis_datos_tarifas)**
