@@ -15,3 +15,4 @@ Tengo sólidos conocimientos en Python, SQL y visualización de datos, y me enca
 - **[Proyecto sobre el comportamiento de los clientes](https://github.com/Marlon3010/analisis_datos_tarifas)**
 - **[Proyecto de análisis predictivo de éxito en videojuegos](https://github.com/Marlon3010/analisis_predictivo_videojuegos)**
 - **[Proyecto de optimización de los gastos de marketing](https://github.com/Marlon3010/optimizacion_gastos_marketing)**
+- **[Proyecto de comportamiento del usuario en un test A/B](https://github.com/Marlon3010/comportamiento_test_A_B)**
