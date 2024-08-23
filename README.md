@@ -13,3 +13,4 @@ Tengo sólidos conocimientos en Python, SQL y visualización de datos, y me enca
 
 ## 🌟 Proyectos Claves:
 - **[Proyecto sobre el comportamiento de los clientes](https://github.com/Marlon3010/analisis_datos_tarifas)**
+- **[Proyecto de análisis predictivo de éxito en videojuegos](https://github.com/Marlon3010/analisis_predictivo_videojuegos)**
