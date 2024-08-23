@@ -22,7 +22,7 @@ Tengo sólidos conocimientos en Python, SQL y visualización de datos, y me enca
 
 ## 🚀 Enfoque Actual:
 
-Actualmente, me encuentro finalizando el proyecto final aplicando metodologías de análisis de datos
+Actualmente, me encuentro terminando el proyecto final integrado sobre operadoras de Telecomunicaciones aplicando metodologías de análisis de datos en el bootcamp Tripleten.
 
 ## 📬 Contactame:
 
