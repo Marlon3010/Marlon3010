@@ -44,11 +44,11 @@ Actualmente, me encuentro terminando el proyecto final integrado sobre operadora
 
 ## 📬 Contactame:
 
-**Email:** daniel.moya.uni@gmail.com
+* **Email:** daniel.moya.uni@gmail.com
 
-**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/marlon-moya-sornoza/)
+* **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/marlon-moya-sornoza/)
 
-**GitHub:** [GitHub Profile](https://github.com/Marlon3010)
+* **GitHub:** [GitHub Profile](https://github.com/Marlon3010)
 
 
 ---
