@@ -21,21 +21,5 @@ Tengo sólidos conocimientos :muscle: en Python, SQL y visualización de datos :
    
 ## 🔧 Habilidades & Tecnologías:
 
-![image](https://github.com/user-attachments/assets/19ef6113-9133-467b-a755-736a52611e80) ![image](https://github.com/user-attachments/assets/f554c342-5a02-4657-90b5-c36d39b74c04) ![image](https://github.com/user-attachments/assets/46c473bb-0238-4936-8624-2f8814e44d44) ![image](https://github.com/user-attachments/assets/c6d83e57-e0f1-45b3-9c98-7d0521f39207) ![image](https://github.com/user-attachments/assets/c55ea622-ac7a-4ac0-915b-0de065978562) ![image](https://github.com/user-attachments/assets/6064f3a9-b612-46ec-9763-7996ea896255) ![image](https://github.com/user-attachments/assets/45ff35de-5e7f-4536-9db2-b2dc54add78e)
+![image](https://github.com/user-attachments/assets/19ef6113-9133-467b-a755-736a52611e80) ![image](https://github.com/user-attachments/assets/f554c342-5a02-4657-90b5-c36d39b74c04) ![image](https://github.com/user-attachments/assets/46c473bb-0238-4936-8624-2f8814e44d44) ![image](https://github.com/user-attachments/assets/c6d83e57-e0f1-45b3-9c98-7d0521f39207) ![image](https://github.com/user-attachments/assets/c55ea622-ac7a-4ac0-915b-0de065978562) ![image](https://github.com/user-attachments/assets/6064f3a9-b612-46ec-9763-7996ea896255) ![image](https://github.com/user-attachments/assets/45ff35de-5e7f-4536-9db2-b2dc54add78e) ![image](https://github.com/user-attachments/assets/a55bb36f-2eb8-49a0-87e0-eeac39fe18bc)
 
-
-
-
-
-
-
-
-
-
-- **Lenguajes de programación:** Python, SQL
-- **Análisis de Datos & Machine Learning:** scikit-learn, pandas, numpy
-- **Herramientas de visualización:** Matplotlib, Seaborn, Tableu
-- **Librerias en Python:**
-  - scikit-learn: algoritmos en Machine learning
-  - pandas: Manipulación y análisis de datos
-  - numpy: Operaciones numéricas
