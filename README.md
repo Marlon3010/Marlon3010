@@ -14,4 +14,4 @@
  
  Hola 👋 Soy Marlon, profesional en Ingeniería en Sistemas Computacionales <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> e iniciando el mundo de Data Analyst que conlleva a la estadística aplicada, la ciencia de datos y el machine learning.
 
-Tengo sólidos conocimientos en Python :muscle: , SQL y visualización de datos, y me encanta convertir datos en información valiosa para resolver problemas complejos y mejorar la eficiencia en proyectos. He realizado proyectos para la optimización de procesos, migración de datos y desarrollo de modelos predictivos en varios campos.
+Tengo sólidos conocimientos :muscle: en Python, SQL y visualización de datos, y me encanta convertir datos en información valiosa para resolver problemas complejos y mejorar la eficiencia en proyectos. He realizado proyectos para la optimización de procesos, migración de datos y desarrollo de modelos predictivos en varios campos.
