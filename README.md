@@ -34,3 +34,23 @@ Tengo sólidos conocimientos :muscle: en Python, SQL y visualización de datos :
 - **[Proyecto de comportamiento del usuario en un test A/B](https://github.com/Marlon3010/comportamiento_test_A_B)**
 - **[Proyecto basado en clientes sobre datos analíticos para una estrategia de retención de clientes](https://github.com/Marlon3010/estrategia_retencion_clientes)**
 
+---
+
+## 🚀 Enfoque Actual:
+
+Actualmente, me encuentro terminando el proyecto final integrado sobre operadoras de Telecomunicaciones aplicando metodologías de análisis de datos en el bootcamp Tripleten.
+
+---
+
+## 📬 Contactame:
+
+**Email:** daniel.moya.uni@gmail.com
+
+**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/marlon-moya-sornoza/)
+
+**GitHub:** [GitHub Profile](https://github.com/Marlon3010)
+
+
+---
+
+### :fire: Mis estadísticas:
