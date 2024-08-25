@@ -36,12 +36,6 @@ Tengo sólidos conocimientos :muscle: en Python, SQL y visualización de datos :
 
 ---
 
-## 🚀 Enfoque Actual:
-
-Actualmente, me encuentro terminando el proyecto final integrado sobre operadoras de Telecomunicaciones aplicando metodologías de análisis de datos en el bootcamp Tripleten.
-
----
-
 ## 📬 Contactame:
 
 * **Email:** daniel.moya.uni@gmail.com
