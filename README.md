@@ -21,7 +21,8 @@ Tengo sólidos conocimientos :muscle: en Python, SQL y visualización de datos :
    
 ## 🔧 Habilidades & Tecnologías:
 
-![image](https://github.com/user-attachments/assets/19ef6113-9133-467b-a755-736a52611e80) ![image](https://github.com/user-attachments/assets/f554c342-5a02-4657-90b5-c36d39b74c04)
+![image](https://github.com/user-attachments/assets/19ef6113-9133-467b-a755-736a52611e80) ![image](https://github.com/user-attachments/assets/f554c342-5a02-4657-90b5-c36d39b74c04) ![image](https://github.com/user-attachments/assets/3394d230-96ef-4d1f-9e6b-e16d79c88cd7)
+
 
 
 - **Lenguajes de programación:** Python, SQL
